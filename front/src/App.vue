@@ -5,8 +5,8 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn text><router-link to="/">Home</router-link></v-btn>
-      <router-link to="/about">About</router-link>
+      <v-btn text><router-link to="/">venta</router-link></v-btn>
+      <router-link to="/about">productos</router-link>
 
       <v-btn class="mr-4 ml-5" color="primary" plain>
         <v-icon left icon="mdi-handshake-outline"></v-icon>
